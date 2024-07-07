@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1720395250 source:c:\users\andre\c_programs\projecto1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1720394994 source:c:\users\andre\c_programs\projecto1\variables.c
+
